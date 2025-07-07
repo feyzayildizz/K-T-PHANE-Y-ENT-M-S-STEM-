@@ -1,2 +1,2 @@
-# K-T-PHANE-Y-ENT-M-S-STEM-
+# KUTUPHANE-YONETIM-SISTEMI-
 C dilinde yazılmış basit bir kütüphane yönetim sistemi
